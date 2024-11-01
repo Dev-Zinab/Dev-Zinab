@@ -2,6 +2,7 @@
 
 
 <h3 align="center"> I'm Zinab Frontend Developer passionate about creating intuitive and accessible digital experiences. Currently working on innovative AI projects to bridge communication gaps.</h3>
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-zinab&label=Profile%20views&color=0e75b6&style=flat" alt="dev-zinab" /> </p>
 
 <p align="center">
@@ -9,8 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dev-zinab" alt="GitHub Trophies" />
   </a>
 </p>
-
----
+-->
 
 ### About Me
 - 🔭 I’m currently working on **Wasel App**
