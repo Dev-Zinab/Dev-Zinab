@@ -13,7 +13,6 @@
 -->
 
 ### About Me
-- 🔭 I’m currently working on **Wasel App**
 - 🔭 I’m currently working on **Wasel App**, a private project focused on seamless communication for DHH (Deaf and Hard of Hearing) individuals using AI technology.
 - 💬 Ask me about **frontend development and app design**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zainab-bahakeem-5b421849)
