@@ -1,8 +1,14 @@
+
 ## Hi there 👋
 
-<h2 align="center">Zinab — iOS Developer</h2>
-<p align="center">Building SwiftUI apps with a focus on AI and accessibility.</p>
+<h2 align="center">
+  Zinab — iOS Developer
+  <img src="https://octodex.github.com/images/Professortocat_v2.png" width="45"/>
+</h2>
 
+<p align="center">
+Building SwiftUI apps with a focus on AI and accessibility.
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-iOS%20Development-F05138?style=flat&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-Apple%20UI-0A84FF?style=flat" />
